@@ -1,1 +1,1 @@
-# writting-app
+# writing-app
